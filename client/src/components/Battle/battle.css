@@ -1,0 +1,18 @@
+#battle {
+	display: flex;
+	flex-direction: column;
+	width: 100vw;
+	background-color: #d8f0d8;
+}
+
+#players {
+	height: calc(100% - 105px);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+}

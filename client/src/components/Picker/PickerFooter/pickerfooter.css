@@ -1,0 +1,31 @@
+#pickerfooter {
+	display: flex;
+	justify-content: center;
+	position: sticky;
+	margin: 25px;
+}
+
+#footerbtn {
+	font-size: 46pt;
+	font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-weight: bold;
+	background: rgb(255, 203, 3);
+	color: #444857;
+}
+
+#modalnopokemon {
+	display: none;
+	position: absolute;
+	width: 100vw;
+}
+
+#modalsubsix {
+	display: none;
+	position: absolute;
+	width: 100vw;
+}

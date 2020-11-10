@@ -1,0 +1,84 @@
+#coverpage {
+	z-index: 1;
+	display: flex;
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	overflow: hidden;
+	background-color: #dc0b2d;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#coverpage-none {
+	display: none;
+}
+
+#coverpage-animation {
+	overflow: hidden;
+	display: flex;
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	background-color: #dc0b2d;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	animation-name: coverpage;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+}
+
+@keyframes coverpage {
+	from {
+		opacity: 100%;
+	}
+	to {
+		opacity: 0%;
+	}
+}
+
+#logo {
+	overflow: hidden;
+	width: 75vw;
+	animation: logo ease 3s;
+}
+
+@keyframes logo {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+#coverpage-btn {
+	overflow: hidden;
+	cursor: pointer;
+	width: 20vw;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 4em;
+	font-weight: bolder;
+	text-shadow: 1px 3px #444857;
+	border-radius: 20px;
+	border: none;
+	background: rgb(255, 203, 3);
+	color: whitesmoke;
+	animation: logo ease 3s;
+}
+
+#coverpage-btn:hover {
+	animation: coverpage-btn 0.5s 2;
+}
+
+@keyframes coverpage-btn {
+	0%,
+	100% {
+		-webkit-transform: translateY(0);
+	}
+	50% {
+		-webkit-transform: translateY(-10px);
+	}
+}

@@ -1,0 +1,37 @@
+#player {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100vw;
+	margin-bottom: 100px;
+}
+
+#playerpokemon {
+	display: flex;
+	justify-content: flex-end;
+	width: 500px;
+	margin-right: 200px;
+}
+
+#playerground {
+	position: absolute;
+	z-index: 0;
+	width: 500px;
+}
+
+#playergroundellipse {
+	stroke: #c18605;
+	stroke-width: 6px;
+	fill: #ffbf0f;
+}
+
+#playerimagewrapper {
+	position: sticky;
+	margin-right: 150px;
+}
+
+.playersprite {
+	z-index: 1;
+	width: 300px;
+	height: 200px;
+}

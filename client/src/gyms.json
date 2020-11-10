@@ -1,0 +1,3494 @@
+[
+	{
+		"leader": "Brock",
+		"pokemon": [
+			{
+				"num": 74,
+				"name": "Geodude",
+				"health": 1,
+				"types": ["Rock", "Ground"],
+				"stats": {
+					"total": 300,
+					"hp": 40,
+					"attack": 80,
+					"defense": 100,
+					"speedAttack": 30,
+					"speedDefense": 30,
+					"speed": 20
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 16,
+						"type": "rock",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 31,
+						"type": "ground",
+						"power": 100,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 26,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 11,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 21,
+						"type": "normal",
+						"power": 200,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 36,
+						"type": "normal",
+						"power": 250,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 31,
+						"type": "rock",
+						"power": 30,
+						"pp": 20,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 16,
+						"type": "ground",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 6,
+						"type": "ground",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "rock",
+						"power": 25,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 8,
+						"type": "rock",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 39,
+						"type": "rock",
+						"power": 100,
+						"pp": 5,
+						"accuracy": 80,
+						"class": "physical"
+					},
+					{
+						"name": 25,
+						"type": "rock",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 32,
+						"type": "ground",
+						"power": 60,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+			},
+			{
+				"num": 95,
+				"name": "Onix",
+				"health": 1,
+				"types": ["Rock", "Ground"],
+				"stats": {
+					"total": 385,
+					"hp": 35,
+					"attack": 45,
+					"defense": 160,
+					"speedAttack": 30,
+					"speedDefense": 45,
+					"speed": 70
+				},
+				"moves": [
+					{
+						"name": 15,
+						"type": "normal",
+						"power": 15,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 33,
+						"type": "normal",
+						"power": 80,
+						"pp": 20,
+						"accuracy": 75,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 19,
+						"type": "rock",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 25,
+						"type": "normal",
+						"power": 20,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 85,
+						"class": "status"
+					},
+					{
+						"name": 43,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 36,
+						"type": "rock",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 30,
+						"type": "dragon",
+						"power": 60,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "ground",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 49,
+						"type": "ground",
+						"power": 35,
+						"pp": 15,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 30,
+						"type": "rock",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 49,
+						"type": "rock",
+						"power": 100,
+						"pp": 5,
+						"accuracy": 80,
+						"class": "physical"
+					},
+					{
+						"name": 22,
+						"type": "rock",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
+			}
+		]
+	},
+	{
+		"leader": "Misty",
+		"pokemon": [
+			{
+				"num": 120,
+				"name": "Staryu",
+				"health": 1,
+				"types": ["Water"],
+				"stats": {
+					"total": 340,
+					"hp": 30,
+					"attack": 45,
+					"defense": 55,
+					"speedAttack": 70,
+					"speedDefense": 55,
+					"speed": 85
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 17,
+						"type": "water",
+						"power": 40,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 47,
+						"type": "water",
+						"power": 110,
+						"pp": 5,
+						"accuracy": 80,
+						"class": "special"
+					},
+					{
+						"name": 27,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 22,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 37,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 40,
+						"type": "ghost",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 42,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 32,
+						"type": "normal",
+						"power": 60,
+						"pp": 20,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 13,
+						"type": "normal",
+						"power": 20,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 19,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 42,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 37,
+						"type": "steel",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 46,
+						"type": "rock",
+						"power": 80,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 46,
+						"type": "normal",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png"
+			},
+			{
+				"num": 121,
+				"name": "Starmie",
+				"health": 1,
+				"types": ["Water", "Psychic"],
+				"stats": {
+					"total": 520,
+					"hp": 60,
+					"attack": 75,
+					"defense": 85,
+					"speedAttack": 100,
+					"speedDefense": 85,
+					"speed": 115
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "water",
+						"power": 40,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "water",
+						"power": 110,
+						"pp": 5,
+						"accuracy": 80,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 37,
+						"type": "ghost",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 20,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png"
+			}
+		]
+	},
+	{
+		"leader": "Lt. Surge",
+		"pokemon": [
+			{
+				"num": 100,
+				"name": "Voltorb",
+				"health": 1,
+				"types": ["Electric"],
+				"stats": {
+					"total": 330,
+					"hp": 40,
+					"attack": 30,
+					"defense": 50,
+					"speedAttack": 55,
+					"speedDefense": 55,
+					"speed": 100
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 17,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 90,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 85,
+						"class": "status"
+					},
+					{
+						"name": 29,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 22,
+						"type": "normal",
+						"power": 200,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 36,
+						"type": "normal",
+						"power": 60,
+						"pp": 20,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 43,
+						"type": "normal",
+						"power": 250,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 29,
+						"type": "rock",
+						"power": 30,
+						"pp": 20,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 21,
+						"type": "electric",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 41,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "electric",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 40,
+						"type": "steel",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 36,
+						"type": "electric",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 37,
+						"type": "electric",
+						"power": 80,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 26,
+						"type": "electric",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "special"
+					},
+					{
+						"name": 29,
+						"type": "electric",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 10,
+						"type": "electric",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
+			},
+			{
+				"num": 25,
+				"name": "Pikachu",
+				"health": 1,
+				"types": ["Electric"],
+				"stats": {
+					"total": 320,
+					"hp": 35,
+					"attack": 55,
+					"defense": 40,
+					"speedAttack": 50,
+					"speedDefense": 50,
+					"speed": 90
+				},
+				"moves": [
+					{
+						"name": 20,
+						"type": "normal",
+						"power": 80,
+						"pp": 20,
+						"accuracy": 75,
+						"class": "physical"
+					},
+					{
+						"name": 6,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "electric",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 9,
+						"type": "electric",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 90,
+						"class": "status"
+					},
+					{
+						"name": 43,
+						"type": "electric",
+						"power": 110,
+						"pp": 10,
+						"accuracy": 70,
+						"class": "special"
+					},
+					{
+						"name": 33,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 16,
+						"type": "normal",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 50,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 26,
+						"type": "normal",
+						"power": 60,
+						"pp": 20,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 26,
+						"type": "electric",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 29,
+						"type": "normal",
+						"power": 30,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 37,
+						"type": "electric",
+						"power": 80,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 18,
+						"type": "electric",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 7,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 23,
+						"type": "electric",
+						"power": 20,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+			},
+			{
+				"num": 26,
+				"name": "Raichu",
+				"health": 1,
+				"types": ["Electric"],
+				"stats": {
+					"total": 485,
+					"hp": 60,
+					"attack": 90,
+					"defense": 55,
+					"speedAttack": 90,
+					"speedDefense": 80,
+					"speed": 110
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "electric",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "electric",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 90,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+			}
+		]
+	},
+	{
+		"leader": "Erika",
+		"pokemon": [
+			{
+				"num": 71,
+				"name": "Victreebel",
+				"health": 1,
+				"types": ["Grass", "Poison"],
+				"stats": {
+					"total": 490,
+					"hp": 80,
+					"attack": 105,
+					"defense": 65,
+					"speedAttack": 100,
+					"speedDefense": 70,
+					"speed": 70
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 45,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 13,
+						"type": "normal",
+						"power": 15,
+						"pp": 20,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 55,
+						"pp": 25,
+						"accuracy": 95,
+						"class": "physical"
+					},
+					{
+						"name": 15,
+						"type": "poison",
+						"power": 50,
+						"pp": 35,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 47,
+						"type": "grass",
+						"power": 90,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 47,
+						"type": "grass",
+						"power": 130,
+						"pp": 5,
+						"accuracy": 90,
+						"class": "special"
+					},
+					{
+						"name": 27,
+						"type": "grass",
+						"power": 65,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "special"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+			},
+			{
+				"num": 114,
+				"name": "Tangela",
+				"health": 1,
+				"types": ["Grass"],
+				"stats": {
+					"total": 435,
+					"hp": 65,
+					"attack": 55,
+					"defense": 115,
+					"speedAttack": 100,
+					"speedDefense": 40,
+					"speed": 60
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 15,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 45,
+						"type": "normal",
+						"power": 80,
+						"pp": 20,
+						"accuracy": 75,
+						"class": "physical"
+					},
+					{
+						"name": 29,
+						"type": "grass",
+						"power": 45,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 29,
+						"type": "grass",
+						"power": 20,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 49,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 32,
+						"type": "poison",
+						"power": 50,
+						"pp": 35,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 36,
+						"type": "grass",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 39,
+						"type": "grass",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 10,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 33,
+						"type": "rock",
+						"power": 60,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 36,
+						"type": "dark",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 46,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 40,
+						"type": "normal",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 50,
+						"type": "normal",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 54,
+						"type": "grass",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 48,
+						"type": "grass",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
+			},
+			{
+				"num": 45,
+				"name": "Vileplume",
+				"health": 1,
+				"types": ["Grass", "Poison"],
+				"stats": {
+					"total": 490,
+					"hp": 75,
+					"attack": 80,
+					"defense": 85,
+					"speedAttack": 110,
+					"speedDefense": 90,
+					"speed": 50
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 20,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 15,
+						"type": "poison",
+						"power": 50,
+						"pp": 35,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "grass",
+						"power": 50,
+						"pp": 5,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 50,
+						"type": "grass",
+						"power": 90,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+			}
+		]
+	},
+	{
+		"leader": "Koga",
+		"pokemon": [
+			{
+				"num": 109,
+				"name": "Koffing",
+				"health": 1,
+				"types": ["Poison"],
+				"stats": {
+					"total": 340,
+					"hp": 40,
+					"attack": 65,
+					"defense": 95,
+					"speedAttack": 60,
+					"speedDefense": 45,
+					"speed": 35
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 37,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 45,
+						"type": "ice",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 40,
+						"type": "normal",
+						"power": 200,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 30,
+						"pp": 20,
+						"accuracy": 70,
+						"class": "special"
+					},
+					{
+						"name": 32,
+						"type": "poison",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 90,
+						"class": "status"
+					},
+					{
+						"name": 48,
+						"type": "normal",
+						"power": 250,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 45,
+						"type": "ghost",
+						"power": 50,
+						"pp": 5,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 49,
+						"type": "dark",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "steel",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 15,
+						"type": "dark",
+						"power": 60,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 19,
+						"type": "poison",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 42,
+						"type": "poison",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "special"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
+			},
+			{
+				"num": 109,
+				"name": "Koffing",
+				"health": 1,
+				"types": ["Poison"],
+				"stats": {
+					"total": 340,
+					"hp": 40,
+					"attack": 65,
+					"defense": 95,
+					"speedAttack": 60,
+					"speedDefense": 45,
+					"speed": 35
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 37,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 45,
+						"type": "ice",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 40,
+						"type": "normal",
+						"power": 200,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 30,
+						"pp": 20,
+						"accuracy": 70,
+						"class": "special"
+					},
+					{
+						"name": 32,
+						"type": "poison",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 90,
+						"class": "status"
+					},
+					{
+						"name": 48,
+						"type": "normal",
+						"power": 250,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 45,
+						"type": "ghost",
+						"power": 50,
+						"pp": 5,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 49,
+						"type": "dark",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "steel",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 15,
+						"type": "dark",
+						"power": 60,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 19,
+						"type": "poison",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 42,
+						"type": "poison",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "special"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png"
+			},
+			{
+				"num": 89,
+				"name": "Muk",
+				"health": 1,
+				"types": ["Poison"],
+				"stats": {
+					"total": 500,
+					"hp": 105,
+					"attack": 105,
+					"defense": 75,
+					"speedAttack": 65,
+					"speedDefense": 100,
+					"speed": 50
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 53,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 85,
+						"class": "status"
+					},
+					{
+						"name": 45,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 37,
+						"type": "poison",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 90,
+						"class": "status"
+					},
+					{
+						"name": 60,
+						"type": "poison",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 60,
+						"type": "poison",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 61,
+						"type": "dark",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 28,
+						"type": "dark",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 23,
+						"type": "ground",
+						"power": 65,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "special"
+					},
+					{
+						"name": 54,
+						"type": "poison",
+						"power": 120,
+						"pp": 5,
+						"accuracy": 80,
+						"class": "physical"
+					},
+					{
+						"name": 50,
+						"type": "poison",
+						"power": 95,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 53,
+						"type": "poison",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "special"
+					},
+					{
+						"name": 38,
+						"type": "poison",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
+			},
+			{
+				"num": 110,
+				"name": "Weezing",
+				"health": 1,
+				"types": ["Poison"],
+				"stats": {
+					"total": 490,
+					"hp": 65,
+					"attack": 90,
+					"defense": 120,
+					"speedAttack": 85,
+					"speedDefense": 70,
+					"speed": 60
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 39,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 49,
+						"type": "ice",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 43,
+						"type": "normal",
+						"power": 200,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 30,
+						"pp": 20,
+						"accuracy": 70,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 90,
+						"class": "status"
+					},
+					{
+						"name": 53,
+						"type": "normal",
+						"power": 250,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 51,
+						"type": "ghost",
+						"power": 50,
+						"pp": 5,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 58,
+						"type": "dark",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 15,
+						"type": "dark",
+						"power": 60,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 33,
+						"type": "normal",
+						"power": 35,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 19,
+						"type": "poison",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 50,
+						"type": "poison",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "special"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+			}
+		]
+	},
+	{
+		"leader": "Sabrina",
+		"pokemon": [
+			{
+				"num": 64,
+				"name": "Kadabra",
+				"health": 1,
+				"types": ["Psychic"],
+				"stats": {
+					"total": 400,
+					"hp": 40,
+					"attack": 35,
+					"defense": 30,
+					"speedAttack": 120,
+					"speedDefense": 70,
+					"speed": 105
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 27,
+						"type": "psychic",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 38,
+						"type": "psychic",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 42,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 80,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "psychic",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 43,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 22,
+						"type": "psychic",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 34,
+						"type": "psychic",
+						"power": 70,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 34,
+						"type": "psychic",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 24,
+						"type": "psychic",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+			},
+			{
+				"num": 122,
+				"name": "Mr. Mime",
+				"health": 1,
+				"types": ["Psychic", "Fairy"],
+				"stats": {
+					"total": 460,
+					"hp": 40,
+					"attack": 45,
+					"defense": 65,
+					"speedAttack": 100,
+					"speedDefense": 120,
+					"speed": 90
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 31,
+						"type": "normal",
+						"power": 15,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 36,
+						"type": "psychic",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 39,
+						"type": "psychic",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 23,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 47,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 46,
+						"type": "normal",
+						"power": 50,
+						"pp": 25,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 41,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "normal",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 37,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 41,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 22,
+						"type": "grass",
+						"power": 60,
+						"pp": 20,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 4,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "rock",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "fighting",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "fairy",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
+			},
+			{
+				"num": 49,
+				"name": "Venomoth",
+				"health": 1,
+				"types": ["Bug", "Poison"],
+				"stats": {
+					"total": 450,
+					"hp": 70,
+					"attack": 65,
+					"defense": 60,
+					"speedAttack": 90,
+					"speedDefense": 75,
+					"speed": 90
+				},
+				"moves": [
+					{
+						"name": 31,
+						"type": "flying",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 55,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 38,
+						"type": "psychic",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 50,
+						"pp": 35,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 30,
+						"type": "grass",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 43,
+						"type": "grass",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 75,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 50,
+						"type": "psychic",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "bug",
+						"power": 80,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 47,
+						"type": "poison",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "bug",
+						"power": 60,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 37,
+						"type": "bug",
+						"power": 75,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 59,
+						"type": "bug",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 41,
+						"type": "psychic",
+						"power": 80,
+						"pp": 15,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 63,
+						"type": "bug",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+			},
+			{
+				"num": 65,
+				"name": "Alakazam",
+				"health": 1,
+				"types": ["Psychic"],
+				"stats": {
+					"total": 500,
+					"hp": 55,
+					"attack": 50,
+					"defense": 45,
+					"speedAttack": 135,
+					"speedDefense": 95,
+					"speed": 120
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 27,
+						"type": "psychic",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 38,
+						"type": "psychic",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 42,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 80,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "psychic",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 43,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 22,
+						"type": "psychic",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 34,
+						"type": "psychic",
+						"power": 70,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 34,
+						"type": "psychic",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 24,
+						"type": "psychic",
+						"power": 50,
+						"pp": 15,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+			}
+		]
+	},
+	{
+		"leader": "Blaine",
+		"pokemon": [
+			{
+				"num": 58,
+				"name": "Growlithe",
+				"health": 1,
+				"types": ["Fire"],
+				"stats": {
+					"total": 350,
+					"hp": 55,
+					"attack": 70,
+					"defense": 45,
+					"speedAttack": 70,
+					"speedDefense": 50,
+					"speed": 60
+				},
+				"moves": [
+					{
+						"name": 30,
+						"type": "normal",
+						"power": 90,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 23,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "dark",
+						"power": 60,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 18,
+						"type": "fire",
+						"power": 40,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 50,
+						"type": "fire",
+						"power": 90,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 39,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 34,
+						"type": "fire",
+						"power": 60,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 25,
+						"type": "fighting",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 43,
+						"type": "dragon",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 37,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 19,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 48,
+						"type": "fire",
+						"power": 120,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 28,
+						"type": "fire",
+						"power": 65,
+						"pp": 15,
+						"accuracy": 95,
+						"class": "physical"
+					},
+					{
+						"name": 31,
+						"type": "fire",
+						"power": 70,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 48,
+						"type": "normal",
+						"power": 70,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+			},
+			{
+				"num": 77,
+				"name": "Ponyta",
+				"health": 1,
+				"types": ["Fire"],
+				"stats": {
+					"total": 410,
+					"hp": 50,
+					"attack": 85,
+					"defense": 55,
+					"speedAttack": 65,
+					"speedDefense": 65,
+					"speed": 90
+				},
+				"moves": [
+					{
+						"name": 32,
+						"type": "normal",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 43,
+						"type": "normal",
+						"power": 90,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 30,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 35,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "fire",
+						"power": 40,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 39,
+						"type": "fire",
+						"power": 35,
+						"pp": 15,
+						"accuracy": 85,
+						"class": "special"
+					},
+					{
+						"name": 48,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 45,
+						"type": "flying",
+						"power": 85,
+						"pp": 5,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 48,
+						"type": "fire",
+						"power": 120,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 21,
+						"type": "fire",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 33,
+						"type": "fire",
+						"power": 100,
+						"pp": 5,
+						"accuracy": 50,
+						"class": "special"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
+			},
+			{
+				"num": 78,
+				"name": "Rapidash",
+				"health": 1,
+				"types": ["Fire"],
+				"stats": {
+					"total": 500,
+					"hp": 65,
+					"attack": 100,
+					"defense": 70,
+					"speedAttack": 80,
+					"speedDefense": 80,
+					"speed": 105
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 40,
+						"type": "normal",
+						"power": 15,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 47,
+						"type": "normal",
+						"power": 90,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "fire",
+						"power": 40,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 39,
+						"type": "fire",
+						"power": 35,
+						"pp": 15,
+						"accuracy": 85,
+						"class": "special"
+					},
+					{
+						"name": 55,
+						"type": "psychic",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 15,
+						"type": "fire",
+						"power": 60,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "bug",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 50,
+						"type": "flying",
+						"power": 85,
+						"pp": 5,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 58,
+						"type": "fire",
+						"power": 120,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 80,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 21,
+						"type": "fire",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 33,
+						"type": "fire",
+						"power": 100,
+						"pp": 5,
+						"accuracy": 50,
+						"class": "special"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
+			},
+			{
+				"num": 59,
+				"name": "Arcanine",
+				"health": 1,
+				"types": ["Fire"],
+				"stats": {
+					"total": 555,
+					"hp": 90,
+					"attack": 110,
+					"defense": 80,
+					"speedAttack": 100,
+					"speedDefense": 80,
+					"speed": 95
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 90,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "dark",
+						"power": 60,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "fire",
+						"power": 40,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "fire",
+						"power": 60,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 50,
+						"type": "normal",
+						"power": 80,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "electric",
+						"power": 65,
+						"pp": 15,
+						"accuracy": 95,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "fire",
+						"power": 65,
+						"pp": 15,
+						"accuracy": 95,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+			}
+		]
+	},
+	{
+		"leader": "Giovanni",
+		"pokemon": [
+			{
+				"num": 51,
+				"name": "Dugtrio",
+				"health": 1,
+				"types": ["Ground"],
+				"stats": {
+					"total": 425,
+					"hp": 35,
+					"attack": 100,
+					"defense": 50,
+					"speedAttack": 50,
+					"speedDefense": 70,
+					"speed": 120
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 24,
+						"type": "ground",
+						"power": 50,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 40,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 47,
+						"type": "ground",
+						"power": 100,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "ground",
+						"power": 80,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 21,
+						"type": "normal",
+						"power": 18,
+						"pp": 15,
+						"accuracy": 80,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 80,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 35,
+						"type": "normal",
+						"power": 70,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "ground",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 7,
+						"type": "ghost",
+						"power": 30,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 26,
+						"type": "ground",
+						"power": 35,
+						"pp": 15,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 23,
+						"type": "dark",
+						"power": 70,
+						"pp": 5,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "dark",
+						"power": 70,
+						"pp": 15,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 28,
+						"type": "ground",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 33,
+						"type": "ground",
+						"power": 65,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "special"
+					},
+					{
+						"name": 18,
+						"type": "ground",
+						"power": 60,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "ground",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+			},
+			{
+				"num": 34,
+				"name": "Nidoking",
+				"health": 1,
+				"types": ["Poison", "Ground"],
+				"stats": {
+					"total": 505,
+					"hp": 81,
+					"attack": 102,
+					"defense": 77,
+					"speedAttack": 85,
+					"speedDefense": 75,
+					"speed": 85
+				},
+				"moves": [
+					{
+						"name": 12,
+						"type": "fighting",
+						"power": 30,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 65,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 40,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "poison",
+						"power": 15,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "flying",
+						"power": 35,
+						"pp": 35,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 43,
+						"type": "bug",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 43,
+						"type": "ground",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 23,
+						"type": "normal",
+						"power": 70,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+			},
+			{
+				"num": 112,
+				"name": "Rhydon",
+				"health": 1,
+				"types": ["Ground", "Rock"],
+				"stats": {
+					"total": 485,
+					"hp": 105,
+					"attack": 130,
+					"defense": 120,
+					"speedAttack": 45,
+					"speedDefense": 45,
+					"speed": 40
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 65,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 65,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 15,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 48,
+						"type": "normal",
+						"power": 50,
+						"pp": 5,
+						"accuracy": 30,
+						"class": "physical"
+					},
+					{
+						"name": 64,
+						"type": "normal",
+						"power": 90,
+						"pp": 20,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 55,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 31,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 66,
+						"type": "bug",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 85,
+						"class": "physical"
+					},
+					{
+						"name": 29,
+						"type": "rock",
+						"power": 25,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 42,
+						"type": "fighting",
+						"power": 100,
+						"pp": 10,
+						"accuracy": 90,
+						"class": "physical"
+					},
+					{
+						"name": 45,
+						"type": "rock",
+						"power": 100,
+						"pp": 5,
+						"accuracy": 80,
+						"class": "physical"
+					},
+					{
+						"name": 34,
+						"type": "normal",
+						"power": 70,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 30,
+						"type": "ground",
+						"power": 60,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 47,
+						"type": "ground",
+						"power": 80,
+						"pp": 10,
+						"accuracy": 95,
+						"class": "physical"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png"
+			},
+			{
+				"num": 150,
+				"name": "Mewtwo",
+				"health": 1,
+				"types": ["Psychic"],
+				"stats": {
+					"total": 680,
+					"hp": 106,
+					"attack": 110,
+					"defense": 90,
+					"speedAttack": 154,
+					"speedDefense": 90,
+					"speed": 130
+				},
+				"moves": [
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "status"
+					},
+					{
+						"name": 75,
+						"type": "ice",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 50,
+						"pp": 25,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "psychic",
+						"power": 90,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 70,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 63,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 60,
+						"pp": 20,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 81,
+						"type": "psychic",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 99,
+						"type": "normal",
+						"power": 50,
+						"pp": 25,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 33,
+						"type": "normal",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 44,
+						"type": "psychic",
+						"power": 120,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 36,
+						"type": "psychic",
+						"power": 50,
+						"pp": 40,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 79,
+						"type": "normal",
+						"power": 50,
+						"pp": 20,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 64,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 64,
+						"type": "psychic",
+						"power": 50,
+						"pp": 10,
+						"accuracy": null,
+						"class": "status"
+					},
+					{
+						"name": 100,
+						"type": "fighting",
+						"power": 80,
+						"pp": 20,
+						"accuracy": null,
+						"class": "special"
+					},
+					{
+						"name": 50,
+						"type": "psychic",
+						"power": 70,
+						"pp": 20,
+						"accuracy": 100,
+						"class": "physical"
+					},
+					{
+						"name": 100,
+						"type": "psychic",
+						"power": 100,
+						"pp": 10,
+						"accuracy": 100,
+						"class": "special"
+					},
+					{
+						"name": 1,
+						"type": "normal",
+						"power": 50,
+						"pp": 30,
+						"accuracy": null,
+						"class": "status"
+					}
+				],
+				"images": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+			}
+		]
+	}
+]
