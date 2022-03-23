@@ -20,7 +20,7 @@ function BattleModal(props) {
 				</button>
 			)
 		}
-	}, [])
+	}, [props])
 
 	return (
 		<div id='battlemodal'>

@@ -50,28 +50,28 @@ function Header(props) {
 			</div>
 			<div id='header-images'>
 				<div className='head-wrapper'>
-					<img id='gym-0' className='gym-head' src={Brock} />
+					<img id='gym-0' alt='gym-0' className='gym-head' src={Brock} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-1' className='gym-head' src={Misty} />
+					<img id='gym-1' alt='gym-1' className='gym-head' src={Misty} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-2' className='gym-head' src={Surge} />
+					<img id='gym-2' alt='gym-2' className='gym-head' src={Surge} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-3' className='gym-head' src={Erika} />
+					<img id='gym-3' alt='gym-3' className='gym-head' src={Erika} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-4' className='gym-head' src={Koga} />
+					<img id='gym-4' alt='gym-4' className='gym-head' src={Koga} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-5' className='gym-head' src={Sabrina} />
+					<img id='gym-5' alt='gym-5' className='gym-head' src={Sabrina} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-6' className='gym-head' src={Blaine} />
+					<img id='gym-6' alt='gym-6' className='gym-head' src={Blaine} />
 				</div>
 				<div className='head-wrapper'>
-					<img id='gym-7' className='gym-head' src={Giovanni} />
+					<img id='gym-7' alt='gym-7' className='gym-head' src={Giovanni} />
 				</div>
 			</div>
 		</div>

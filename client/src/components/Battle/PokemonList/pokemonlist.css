@@ -1,68 +1,69 @@
 #pokemonlist-container {
-	position: fixed;
-	width: 110vw;
-	height: 110vh;
-	top: 0px;
-	margin: -10vh;
-	background-color: rgba(84, 91, 96, 0.7);
+  position: fixed;
+  width: 110vw;
+  height: 110vh;
+  top: 0px;
+  margin: -10vh;
+  background-color: rgba(84, 91, 96, 0.7);
 }
 
 #pokemonlist-container-none {
-	display: none;
+  display: none;
 }
 
 #pokemonlist {
-	display: flex;
-	flex-direction: column;
-	margin-left: auto;
-	margin-right: auto;
-	border-radius: 10px;
-	width: 55vw;
-	height: auto;
-	margin-top: 15vh;
-	background-color: white;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  /* width: 55vw; */
+  width: 55%;
+  height: auto;
+  margin-top: 15vh;
+  background-color: white;
 }
 
 .pokemonlist-item {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
 }
 
 .pokemonlist-img {
-	margin: 10px;
-	width: 100px;
-	height: 100px;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
 }
 
 .pokemonlist-name {
-	font-weight: bolder;
-	font-size: 18pt;
+  font-weight: bolder;
+  font-size: 18pt;
 }
 
 .pokemonhealthbgr-list {
-	margin: 10px;
-	width: 30%;
-	height: 10px;
-	border-radius: 10px;
-	background-color: #444857;
+  margin: 10px;
+  width: 30%;
+  height: 10px;
+  border-radius: 10px;
+  background-color: #444857;
 }
 
 .pokemonhealth-list {
-	height: 10px;
-	border-radius: 10px;
-	background-color: green;
+  height: 10px;
+  border-radius: 10px;
+  background-color: green;
 }
 
 #pokemonlist-close {
-	cursor: pointer;
-	padding: 20px;
-	width: 200px;
-	font-size: 18pt;
-	font-weight: bolder;
-	margin-left: auto;
-	margin-right: auto;
-	border: none;
-	border-radius: 10px;
+  cursor: pointer;
+  padding: 20px;
+  width: 200px;
+  font-size: 18pt;
+  font-weight: bolder;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  border-radius: 10px;
 }

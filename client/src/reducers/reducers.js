@@ -1,5 +1,4 @@
 import { combineReducers } from 'redux'
-import data from '../data.json'
 import gyms from '../gyms.json'
 
 /*
@@ -96,12 +95,12 @@ export const gym = (state = 7, action) => {
 		action.value !== undefined &&
 		action.value !== null
 	) {
-		state = state + 1
-		if (state === 8) {
-			state = 0
+		let result = action.value + 1
+		if (result === 8) {
+			result = 0
 		}
-		localStorage.setItem('gym', JSON.stringify(state))
-		return state
+		localStorage.setItem('gym', JSON.stringify(result))
+		return result
 	}
 	if (
 		action.type === 'gym-storage' &&
@@ -145,7 +144,7 @@ export const gymLeaders = (state = gyms, action) => {
 		let pokemon = action.value.pokemon
 		let opponent = result[action.value.gym].pokemon[action.value.opponent]
 		let attackPower = pokemon.stats.attack * (attack.power / 100)
-		let attackDmg = (attackPower / opponent.stats.defense) * 1000
+		let attackDmg = (attackPower / opponent.stats.defense) * 10
 		let attackResult = opponent.health - attackDmg / opponent.stats.hp
 
 		opponent.health = attackResult <= 0 ? 0 : attackResult

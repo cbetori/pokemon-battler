@@ -1,0 +1,25 @@
+#pickermodal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0px;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+#modalnopokemon {
+  display: none;
+  top: 0;
+  position: absolute;
+  /* height: 100%;
+  width: 100%; */
+}
+
+#modalsubsix {
+  display: none;
+  position: fixed;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+}

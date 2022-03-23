@@ -1,0 +1,8 @@
+#pickerheader {
+	color: white;
+	display: flex;
+	justify-content: center;
+	font-size: 56pt;
+	font-weight: bold;
+	margin: 25px;
+}
