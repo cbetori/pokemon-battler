@@ -20,3 +20,4 @@
 /client/yarn-error.log*
 
 /vendor/.env
+.env
