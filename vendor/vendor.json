@@ -1,0 +1,10 @@
+{
+  "comment": "",
+  "heroku": {
+    "goVersion": "go1.13.1",
+    "install": ["./..."]
+  },
+  "ignore": "test",
+  "package": [],
+  "rootPath": "pokemon"
+}
