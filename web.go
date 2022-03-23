@@ -12,8 +12,6 @@ import (
 	_ "github.com/joho/godotenv/autoload"
 )
 
-var number int
-
 func main() {
 	// Init Router
 	r := mux.NewRouter()
