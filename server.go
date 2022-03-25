@@ -22,8 +22,6 @@ func main() {
 	r.HandleFunc("/api/start", controller.Start).Methods("GET")
 	r.HandleFunc("/api/pokemon", controller.PokemonPicker).Methods("GET")
 
-	// r.HandleFunc("/api/default/data={date}", controller.HandleDefaultQuery).Methods("GET")
-
 	spa := spaHandler{staticPath: "client/dist", indexPath: "index.html"}
 	r.PathPrefix("/").Handler(spa)
 

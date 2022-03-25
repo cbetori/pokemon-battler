@@ -1,12 +1,27 @@
 const { ModuleFederationPlugin } = require('webpack').container
 const HtmlWebPackPlugin = require('html-webpack-plugin')
 const path = require('path')
+const web = require('webpack')
 const deps = require('./package.json').dependencies
+const dotenv = require('dotenv').config({
+  path: '../.env',
+}).parsed
+
+const mode = process.env.NODE_ENV || 'development'
+const prod = mode === 'production'
 
 module.exports = {
   entry: './src/index.js',
   mode: 'development',
   devtool: 'hidden-source-map',
+  output: {
+    path: __dirname + '/dist',
+    filename: 'index.js',
+    chunkFilename: '[name].[id].js',
+    publicPath: prod
+      ? 'https://pokemon-battle-cb.herokuapp.com/'
+      : 'http://localhost:3001/',
+  },
   resolve: {
     extensions: ['.js', '.json', '.css'],
   },
@@ -32,7 +47,7 @@ module.exports = {
     ],
   },
   devServer: {
-    port: 3000,
+    port: 3001,
   },
   plugins: [
     new ModuleFederationPlugin({
@@ -54,6 +69,11 @@ module.exports = {
     }),
     new HtmlWebPackPlugin({
       template: './public/index.html',
+    }),
+    new web.DefinePlugin({
+      API_URL: prod
+        ? JSON.stringify(process.env.API_URL)
+        : JSON.stringify(dotenv.API_URL),
     }),
   ],
 }
