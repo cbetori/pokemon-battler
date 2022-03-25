@@ -14,14 +14,6 @@ module.exports = {
   entry: './src/index.js',
   mode: 'development',
   devtool: 'hidden-source-map',
-  output: {
-    path: __dirname + '/dist',
-    filename: 'index.js',
-    chunkFilename: '[name].[id].js',
-    publicPath: prod
-      ? 'https://pokemon-battle-cb.herokuapp.com/'
-      : 'http://localhost:3001/',
-  },
   resolve: {
     extensions: ['.js', '.json', '.css'],
   },
@@ -69,11 +61,6 @@ module.exports = {
     }),
     new HtmlWebPackPlugin({
       template: './public/index.html',
-    }),
-    new web.DefinePlugin({
-      API_URL: prod
-        ? JSON.stringify(process.env.API_URL)
-        : JSON.stringify(dotenv.API_URL),
     }),
   ],
 }
