@@ -9,7 +9,15 @@ const prod = mode === 'production'
 
 module.exports = {
   entry: './src/index.js',
-  mode: 'development',
+  mode,
+  output: {
+    path: __dirname + '/dist',
+    filename: 'index.js',
+    chunkFilename: '[name].[id].js',
+    publicPath: prod
+      ? 'https://pokemon-battle-cb.herokuapp.com/'
+      : 'http://localhost:3001/',
+  },
   devtool: 'hidden-source-map',
   resolve: {
     extensions: ['.js', '.json', '.css'],
